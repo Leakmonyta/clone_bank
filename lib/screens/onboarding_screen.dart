@@ -108,7 +108,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                   );
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: Color(0xFF0066FF), // Changed button color
+                  backgroundColor: Color(0xFF0066FF), // Changed button color
                   minimumSize: Size(double.infinity, 56),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(8),
