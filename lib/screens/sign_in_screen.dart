@@ -73,7 +73,7 @@ class SignInScreen extends StatelessWidget {
                   );
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: Color(0xFF0066FF),
+                  backgroundColor: Color(0xFF0066FF),
                   minimumSize: Size(double.infinity, 56),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(8),
